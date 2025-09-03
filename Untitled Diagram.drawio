@@ -1,41 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Page-1" id="wQ1_XcjWouDKxYmvAbNP">
-    <mxGraphModel dx="998" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hL43udhw6yURbTifkkZJ-1" value="Scope" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="100" width="160" height="40" as="geometry" />
+          <mxGeometry x="20" y="100" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-2" value="Data" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="190" y="100" width="210" height="40" as="geometry" />
+          <mxGeometry x="160" y="100" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-3" value="Modeling" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="100" width="200" height="40" as="geometry" />
+          <mxGeometry x="445" y="98" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-4" value="Deployment" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="580" y="100" width="280" height="40" as="geometry" />
+          <mxGeometry x="670" y="98" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-5" value="Define Model Scope" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="150" height="60" as="geometry" />
+          <mxGeometry x="30" y="160" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hL43udhw6yURbTifkkZJ-6" value="Define Data" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="110" height="60" as="geometry" />
+        <mxCell id="hL43udhw6yURbTifkkZJ-6" value="&amp;nbsp;Data Collection&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hL43udhw6yURbTifkkZJ-10" value="feature engineering" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="300" y="160" width="90" height="60" as="geometry" />
+        <mxCell id="hL43udhw6yURbTifkkZJ-10" value="feature&amp;nbsp;&lt;div&gt;engineering&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="335" y="160" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hL43udhw6yURbTifkkZJ-11" value="selection of algorithm &amp;amp; Training" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="90" height="60" as="geometry" />
+        <mxCell id="hL43udhw6yURbTifkkZJ-11" value="selection of algorithm &amp;amp; Training" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;size=10;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hL43udhw6yURbTifkkZJ-15" value="Model performance analysis" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="hL43udhw6yURbTifkkZJ-15" value="Model performance Evaluation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="535" y="160" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-16" value="prod deploy&lt;div&gt;/hosting&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="590" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="160" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-17" value="Monitoring and alerting" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="700" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="790" y="160" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.189;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hL43udhw6yURbTifkkZJ-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -62,7 +62,7 @@
           <mxGeometry x="520" y="18" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-24" value="retrain the model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="68" width="110" height="30" as="geometry" />
+          <mxGeometry x="540" y="68" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.189;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,6 +80,12 @@
         </mxCell>
         <mxCell id="hL43udhw6yURbTifkkZJ-26" value="collect data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="68" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hL43udhw6yURbTifkkZJ-30" value="&amp;nbsp;Data cleaning&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hL43udhw6yURbTifkkZJ-31" value="Data&lt;div&gt;&amp;nbsp;Labelling&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;size=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
